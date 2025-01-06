@@ -30,16 +30,16 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
-/assets/
-/lib/global
-/windows/
-/android/
-/ios/
-/.env
-/.metadata
-/macos/
-/linux/
-/web/
+sparkleShip/assets/
+sparkleShip/lib/global
+sparkleShip/windows/
+sparkleShip/android/
+sparkleShip/ios/
+sparkleShip/.env
+sparkleShip/.metadata
+sparkleShip/macos/
+sparkleShip/linux/
+sparkleShip/web/
 # Symbolication related
 app.*.symbols
 
