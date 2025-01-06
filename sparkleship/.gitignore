@@ -32,7 +32,14 @@ migrate_working_dir/
 /build/
 /assets/
 /lib/global
-
+/windows/
+/android/
+/ios/
+/.env
+/.metadata
+/macos/
+/linux/
+/web/
 # Symbolication related
 app.*.symbols
 
